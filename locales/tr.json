@@ -1,0 +1,32 @@
+{
+    "commands": {
+        "sentence": "kamuhizmeti",
+        "removesentence": "kamuhizmetisil",
+        "getSentence": "kamuhizmetiver"
+    },
+
+    "notify": {
+        "sentencedTarget": "%s kişisine ceza verildi",
+        "removedTarget": "Ceza kaldırıldı",
+        "jailYourself": "Kendini hapse atamazsın!",
+        "targetAlreadySentenced": "Oyuncu zaten cezalandırılmış!",
+        "targetDoesntExist": "Bu ID'ye sahip bir oyuncu bulunamadı!",
+        "notPolice": "Sen bir polis memuru değilsin!",
+        "sentenced": "%s eylem için kamu hizmetine gönderildiniz",
+        "sentBack": "Kamu hizmetine geri gönderildiniz!",
+        "finished": "Kamu hizmetini tamamladınız, düzgün davranın!",
+        "finishedTask": "Bir görevi tamamladınız, kalan görev sayısı: %s."
+    },
+
+    "input": {
+        "playerIdTitle": "Oyuncu ID",
+        "playerId": "Cezalandırmak istediğiniz oyuncunun ID",
+        "removeplayerId": "Cezasını kaldırmak istediğiniz oyuncunun ID",
+        "actionsTitle": "Eylemler",
+        "actions": "Oyuncuya verilecek ceza süresi (eylem sayısı)."
+    },
+
+    "textUI": {
+        "startTask": "[E] Görevi Başlat"
+    }
+}
